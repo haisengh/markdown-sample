@@ -26,3 +26,9 @@ This is  [haha][foo] reference-style link.
 This is [an example][id] reference-style link.
 
 [id]: http://example.com/  "Optional Title Here"
+
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
